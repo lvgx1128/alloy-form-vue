@@ -1,0 +1,21 @@
+{
+  "root": [
+    "./packages/index.ts",
+    "./packages/vite.config.ts",
+    "./packages/src/components.d.ts",
+    "./packages/src/@types/index.ts",
+    "./packages/src/form/index.ts",
+    "./packages/src/hooks/useform.ts",
+    "./packages/src/utils/index.ts",
+    "./packages/src/withinstall/index.ts",
+    "./packages/src/form/fielditem.vue",
+    "./packages/src/form/fieldrender.vue",
+    "./packages/src/form/index.vue",
+    "./src/main.ts",
+    "./src/vite-env.d.ts",
+    "./src/app.vue",
+    "./src/components/helloworld.vue",
+    "./@types/global.d.ts"
+  ],
+  "version": "5.4.2"
+}
